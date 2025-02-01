@@ -10,9 +10,9 @@ Developed a Python-based assembler for assembly-to-machine code translation and 
 Implemented a fun little LED diagram for a sword and shield, inspired by our CPU name. In addition, we implemented a little LED matrix that displays the current instruction hex code.
 
 **How to use assembler program:**   
-Step 1: Ensure that **instructions.txt, assembler.py, and byteknight.circ** are all located in the same folder. 
+Step 1: Ensure that **instruction.txt, assembler.py, and byteknight.circ** are all located in the same folder. 
 
-Step 2: Open the **instructions.txt,** and input any instructions desired in the following format:   
+Step 2: Open the **instruction.txt,** and input any instructions desired in the following format:   
 			\<INSTRUCTION\> \<REG1\> \<REG2/IMMEDIATE\>  
 	Where instruction is either ADD, SUB, LDR, STR, or MUL  
 	Reg1 and Reg2 is a register, e.g. X0  
